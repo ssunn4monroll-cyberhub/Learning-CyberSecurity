@@ -1,6 +1,6 @@
-# Learning-CyberSecurity
-What happened while newbie Learning CyberSecurity
+# Daily Dose of CyberSecurity (My learning diary)
+What happened when noob learn CyberSecurity
 
-Day 1 Download and Install Ubuntu  Kali linux
+- Download and Install Ubuntu  Kali linux
 
-Day 2 Try to learn "Pre Security" from TryHackMe
+- Try to learn "Pre Security" from TryHackMe
